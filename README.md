@@ -40,12 +40,15 @@ How to Use:
 4.Use the menu to perform CRUD operations on student records.
 
 Contributing:
+
 Feel free to contribute to this project by adding new features, improving code, or fixing bugs. Fork the repository, make your changes, and submit a pull request.
 
 License:
+
 This project is open-source and available under the MIT License.
 
 Disclaimer:
+
 This project is created for educational purposes and is intended to serve as a basic example of a student management system. It may require additional features and improvements for real-world use.
 
 Please let me know if you would like any modifications or if you'd like me to generate an updated version of this content.
