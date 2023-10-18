@@ -16,9 +16,21 @@ Git (for version control)
 Key Features:
 
 1.Add Students (Press 1): Users can add new student records by providing their name, phone number, and city. The information is stored in a MySQL database.
+![image](https://github.com/Siddeshob/JDBC-Student-Management/assets/130699981/737c7593-e9ce-4fa6-8047-3fb967010f33)
+
+
 2.Delete Students (Press 2): Users can delete student records by specifying the student's unique identifier.
+![image](https://github.com/Siddeshob/JDBC-Student-Management/assets/130699981/e3b040bc-73f1-4694-aba5-59cd7517f5bc)
+
+
 3.View Student Names (Press 3): Users can retrieve and display a list of student names stored in the database.
+![image](https://github.com/Siddeshob/JDBC-Student-Management/assets/130699981/2ede5169-ec6a-43eb-800d-54a8c60df3a4)
+![image](https://github.com/Siddeshob/JDBC-Student-Management/assets/130699981/027fdd85-6e41-4efd-b3b8-ccb0bf53ab47)
+
+
 4.Exit (Press 4): Users can choose to exit the application and end the program loop by pressing 4.
+![image](https://github.com/Siddeshob/JDBC-Student-Management/assets/130699981/090f16b4-3004-4d5f-88d8-175f4543a9fa)
+
 
 How to Use:
 
